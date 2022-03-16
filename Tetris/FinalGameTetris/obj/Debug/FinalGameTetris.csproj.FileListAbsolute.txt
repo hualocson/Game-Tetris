@@ -1,0 +1,61 @@
+D:\HK1 21-22\OOP\Assignment\FinalTest\FinalGameTetris\FinalGameTetris\bin\Debug\FinalGameTetris.exe.config
+D:\HK1 21-22\OOP\Assignment\FinalTest\FinalGameTetris\FinalGameTetris\bin\Debug\FinalGameTetris.exe
+D:\HK1 21-22\OOP\Assignment\FinalTest\FinalGameTetris\FinalGameTetris\bin\Debug\FinalGameTetris.pdb
+D:\HK1 21-22\OOP\Assignment\FinalTest\FinalGameTetris\FinalGameTetris\obj\Debug\FinalGameTetris.csproj.AssemblyReference.cache
+D:\HK1 21-22\OOP\Assignment\FinalTest\FinalGameTetris\FinalGameTetris\obj\Debug\FinalGameTetris.FHelp.resources
+D:\HK1 21-22\OOP\Assignment\FinalTest\FinalGameTetris\FinalGameTetris\obj\Debug\FinalGameTetris.FMainMenu.resources
+D:\HK1 21-22\OOP\Assignment\FinalTest\FinalGameTetris\FinalGameTetris\obj\Debug\FinalGameTetris.Properties.Resources.resources
+D:\HK1 21-22\OOP\Assignment\FinalTest\FinalGameTetris\FinalGameTetris\obj\Debug\FinalGameTetris.csproj.GenerateResource.cache
+D:\HK1 21-22\OOP\Assignment\FinalTest\FinalGameTetris\FinalGameTetris\obj\Debug\FinalGameTetris.csproj.CoreCompileInputs.cache
+D:\HK1 21-22\OOP\Assignment\FinalTest\FinalGameTetris\FinalGameTetris\obj\Debug\FinalGameTetris.exe
+D:\HK1 21-22\OOP\Assignment\FinalTest\FinalGameTetris\FinalGameTetris\obj\Debug\FinalGameTetris.pdb
+D:\HK1 21-22\OOP\Assignment\FinalTest\FinalGameTetris\FinalGameTetris\obj\Debug\FinalGameTetris.FNewGame.resources
+D:\HK1 21-22\OOP\Assignment\FinalTest\FinalGameTetris\FinalGameTetris\obj\Debug\FinalGameTetris.FMusic.resources
+D:\HK1 21-22\OOP\Assignment\FinalTest\FinalGameTetris\FinalGameTetris\bin\Debug\Interop.WMPLib.dll
+D:\HK1 21-22\OOP\Assignment\FinalTest\FinalGameTetris\FinalGameTetris\bin\Debug\AxInterop.WMPLib.dll
+D:\HK1 21-22\OOP\Assignment\FinalTest\FinalGameTetris\FinalGameTetris\obj\Debug\Interop.WMPLib.dll
+D:\HK1 21-22\OOP\Assignment\FinalTest\FinalGameTetris\FinalGameTetris\obj\Debug\AxInterop.WMPLib.dll
+D:\HK1 21-22\OOP\Assignment\FinalTest\FinalGameTetris\FinalGameTetris\obj\Debug\FinalGameTetris.csproj.ResolveComReference.cache
+D:\HK1 21-22\OOP\Assignment\FinalTest\FinalGameTetris\FinalGameTetris\obj\Debug\FinalGameTetris.FGame.resources
+D:\HK1 21-22\OOP\Assignment\FinalTest\FinalGameTetris\FinalGameTetris\obj\Debug\FinalGameTetris.FNotify.resources
+D:\HK1 21-22\OOP\Assignment\FinalTest\Tetris\FinalGameTetris\bin\Debug\FinalGameTetris.exe.config
+D:\HK1 21-22\OOP\Assignment\FinalTest\Tetris\FinalGameTetris\bin\Debug\FinalGameTetris.exe
+D:\HK1 21-22\OOP\Assignment\FinalTest\Tetris\FinalGameTetris\bin\Debug\FinalGameTetris.pdb
+D:\HK1 21-22\OOP\Assignment\FinalTest\Tetris\FinalGameTetris\bin\Debug\Interop.WMPLib.dll
+D:\HK1 21-22\OOP\Assignment\FinalTest\Tetris\FinalGameTetris\bin\Debug\AxInterop.WMPLib.dll
+D:\HK1 21-22\OOP\Assignment\FinalTest\Tetris\FinalGameTetris\obj\Debug\FinalGameTetris.csproj.AssemblyReference.cache
+D:\HK1 21-22\OOP\Assignment\FinalTest\Tetris\FinalGameTetris\obj\Debug\Interop.WMPLib.dll
+D:\HK1 21-22\OOP\Assignment\FinalTest\Tetris\FinalGameTetris\obj\Debug\AxInterop.WMPLib.dll
+D:\HK1 21-22\OOP\Assignment\FinalTest\Tetris\FinalGameTetris\obj\Debug\FinalGameTetris.csproj.ResolveComReference.cache
+D:\HK1 21-22\OOP\Assignment\FinalTest\Tetris\FinalGameTetris\obj\Debug\FinalGameTetris.FGame.resources
+D:\HK1 21-22\OOP\Assignment\FinalTest\Tetris\FinalGameTetris\obj\Debug\FinalGameTetris.FHelp.resources
+D:\HK1 21-22\OOP\Assignment\FinalTest\Tetris\FinalGameTetris\obj\Debug\FinalGameTetris.FMainMenu.resources
+D:\HK1 21-22\OOP\Assignment\FinalTest\Tetris\FinalGameTetris\obj\Debug\FinalGameTetris.FMusic.resources
+D:\HK1 21-22\OOP\Assignment\FinalTest\Tetris\FinalGameTetris\obj\Debug\FinalGameTetris.FNewGame.resources
+D:\HK1 21-22\OOP\Assignment\FinalTest\Tetris\FinalGameTetris\obj\Debug\FinalGameTetris.FNotify.resources
+D:\HK1 21-22\OOP\Assignment\FinalTest\Tetris\FinalGameTetris\obj\Debug\FinalGameTetris.Properties.Resources.resources
+D:\HK1 21-22\OOP\Assignment\FinalTest\Tetris\FinalGameTetris\obj\Debug\FinalGameTetris.csproj.GenerateResource.cache
+D:\HK1 21-22\OOP\Assignment\FinalTest\Tetris\FinalGameTetris\obj\Debug\FinalGameTetris.csproj.CoreCompileInputs.cache
+D:\HK1 21-22\OOP\Assignment\FinalTest\Tetris\FinalGameTetris\obj\Debug\FinalGameTetris.exe
+D:\HK1 21-22\OOP\Assignment\FinalTest\Tetris\FinalGameTetris\obj\Debug\FinalGameTetris.pdb
+D:\Tetris\Tetris\FinalGameTetris\bin\Debug\FinalGameTetris.exe.config
+D:\Tetris\Tetris\FinalGameTetris\bin\Debug\FinalGameTetris.exe
+D:\Tetris\Tetris\FinalGameTetris\bin\Debug\FinalGameTetris.pdb
+D:\Tetris\Tetris\FinalGameTetris\bin\Debug\Interop.WMPLib.dll
+D:\Tetris\Tetris\FinalGameTetris\bin\Debug\AxInterop.WMPLib.dll
+D:\Tetris\Tetris\FinalGameTetris\obj\Debug\FinalGameTetris.csproj.AssemblyReference.cache
+D:\Tetris\Tetris\FinalGameTetris\obj\Debug\FinalGameTetris.csproj.SuggestedBindingRedirects.cache
+D:\Tetris\Tetris\FinalGameTetris\obj\Debug\Interop.WMPLib.dll
+D:\Tetris\Tetris\FinalGameTetris\obj\Debug\AxInterop.WMPLib.dll
+D:\Tetris\Tetris\FinalGameTetris\obj\Debug\FinalGameTetris.csproj.ResolveComReference.cache
+D:\Tetris\Tetris\FinalGameTetris\obj\Debug\FinalGameTetris.FGame.resources
+D:\Tetris\Tetris\FinalGameTetris\obj\Debug\FinalGameTetris.FHelp.resources
+D:\Tetris\Tetris\FinalGameTetris\obj\Debug\FinalGameTetris.FMainMenu.resources
+D:\Tetris\Tetris\FinalGameTetris\obj\Debug\FinalGameTetris.FMusic.resources
+D:\Tetris\Tetris\FinalGameTetris\obj\Debug\FinalGameTetris.FNewGame.resources
+D:\Tetris\Tetris\FinalGameTetris\obj\Debug\FinalGameTetris.FNotify.resources
+D:\Tetris\Tetris\FinalGameTetris\obj\Debug\FinalGameTetris.Properties.Resources.resources
+D:\Tetris\Tetris\FinalGameTetris\obj\Debug\FinalGameTetris.csproj.GenerateResource.cache
+D:\Tetris\Tetris\FinalGameTetris\obj\Debug\FinalGameTetris.csproj.CoreCompileInputs.cache
+D:\Tetris\Tetris\FinalGameTetris\obj\Debug\FinalGameTetris.exe
+D:\Tetris\Tetris\FinalGameTetris\obj\Debug\FinalGameTetris.pdb

@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FinalGameTetris.ThemeColor" Collapsed="true">
+    <Position X="1" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAACQAABCAAAAAAAACAAAAAAAACAAgA=</HashCode>
+      <FileName>ThemeColor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalGameTetris.FGame" Collapsed="true">
+    <Position X="5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ASwAACCIESAaEABBBRKIBgHigCEEAgATgAAAgSBKAAI=</HashCode>
+      <FileName>FGame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalGameTetris.FHelp" Collapsed="true">
+    <Position X="7" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAACAAEBAAAACAAAACAAAAIAACAAAIAABAAAA=</HashCode>
+      <FileName>FHelp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalGameTetris.FMainMenu" Collapsed="true">
+    <Position X="5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AcEAhAgAMSAgAALBEBCACAACkKBIAACGBAhAJQhASEA=</HashCode>
+      <FileName>FMainMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalGameTetris.FMusic" Collapsed="true">
+    <Position X="3" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAiAAUAGABEAIAAADAAFgCIICgFAsDAAAAAQYgAiA=</HashCode>
+      <FileName>FMusic.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalGameTetris.FNewGame" Collapsed="true">
+    <Position X="3" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAJCAgMAAAAQCAIAACkAEJIABAEQAAAABAAAA=</HashCode>
+      <FileName>FNewGame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalGameTetris.FNotify" Collapsed="true">
+    <Position X="5.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEKAAEAEBAACQAMAKACACAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>FNotify.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalGameTetris.Shape" Collapsed="true">
+    <Position X="1" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAEABAABAAAAAIAAAAAAkAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Shape.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalGameTetris.ShapeManager" Collapsed="true">
+    <Position X="1" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAAAAgAAAAAAAAAAAAAAAAABAAAEAA=</HashCode>
+      <FileName>ShapeManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalGameTetris.Cons" Collapsed="true">
+    <Position X="1" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAIAAAAEAAAAABIAAAAAAABAiAgCADAAAAA=</HashCode>
+      <FileName>Cons.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalGameTetris.CTButton" Collapsed="true">
+    <Position X="7.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACIgAAACIAAAAAIAgIgAABCCAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CTButton.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
